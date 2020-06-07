@@ -8,5 +8,5 @@ Projects in Self-Driving Cars Specialization, including:
 Course 4 Final Project Video:
 
   
-[![Watch the video](https://img.youtube.com/vi/https://youtu.be/XPVuAlnnfU8/maxresdefault.jpg)](https://youtu.be/XPVuAlnnfU8)
+[![Watch the video](https://img.youtube.com/vi/XPVuAlnnfU8/maxresdefault.jpg)](https://youtu.be/XPVuAlnnfU8)
 
